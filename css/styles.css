@@ -1,0 +1,65 @@
+body {
+	background-color: black;
+	color: white;
+	height: 100%;
+	overflow: hidden;
+}
+
+h1 {
+	font-size: 4rem;
+	margin: 3%;
+}
+
+p {
+	font-size: 1.5rem;
+}
+
+
+@media (max-width:767px) {
+	h1 {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+
+	}
+
+	body {
+		text-align: center;
+	}
+
+	p {
+		font-size: 1.5rem;
+		padding: 3%;
+		letter-spacing: 1px;
+	}
+}
+
+
+.social-icons {
+	background-color: black;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.social-icons a {
+	margin: 2%;
+	padding: 3%;
+}
+
+i {
+	display: block;
+	text-align: center;
+	padding: 16px;
+	transition: all 0.3s ease;
+	width: 90px;
+	color: white;
+	font-size: 30px;
+	border: 1px dashed white;
+}
+
+i:hover {
+	color: blue;
+	font-size: 40px;
+	border: 2px solid white;
+}
