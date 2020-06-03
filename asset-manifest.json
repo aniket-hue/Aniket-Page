@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Aniket-Page/static/css/main.1f55482c.chunk.css",
+    "main.js": "/Aniket-Page/static/js/main.064afbbb.chunk.js",
+    "main.js.map": "/Aniket-Page/static/js/main.064afbbb.chunk.js.map",
+    "runtime-main.js": "/Aniket-Page/static/js/runtime-main.fc471b98.js",
+    "runtime-main.js.map": "/Aniket-Page/static/js/runtime-main.fc471b98.js.map",
+    "static/js/2.7ee0c9c6.chunk.js": "/Aniket-Page/static/js/2.7ee0c9c6.chunk.js",
+    "static/js/2.7ee0c9c6.chunk.js.map": "/Aniket-Page/static/js/2.7ee0c9c6.chunk.js.map",
+    "index.html": "/Aniket-Page/index.html",
+    "precache-manifest.312996a6d9cfee5247400090b053a6af.js": "/Aniket-Page/precache-manifest.312996a6d9cfee5247400090b053a6af.js",
+    "service-worker.js": "/Aniket-Page/service-worker.js",
+    "static/css/main.1f55482c.chunk.css.map": "/Aniket-Page/static/css/main.1f55482c.chunk.css.map",
+    "static/js/2.7ee0c9c6.chunk.js.LICENSE.txt": "/Aniket-Page/static/js/2.7ee0c9c6.chunk.js.LICENSE.txt",
+    "static/media/face.svg": "/Aniket-Page/static/media/face.51f42ec5.svg",
+    "static/media/git.svg": "/Aniket-Page/static/media/git.1bb02710.svg",
+    "static/media/lin.svg": "/Aniket-Page/static/media/lin.5b238434.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc471b98.js",
+    "static/js/2.7ee0c9c6.chunk.js",
+    "static/css/main.1f55482c.chunk.css",
+    "static/js/main.064afbbb.chunk.js"
+  ]
+}
