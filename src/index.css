@@ -3,13 +3,12 @@ body {
   height: 100%;
   margin: 0px;
   padding: 0px;
-  font-family: "Helvetica Neue",
-    Helvetica,
-    Arial,
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
+  background-image: url("./assets/back.jpg");
+  /* background-size: contain; */
+  font-family: 'Raleway', sans-serif;
+  -webkit-font-smoothing: antialiased;  
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(#ffffff,#bdbdbd,#ffe23f);
+
 
 }
 

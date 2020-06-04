@@ -1,0 +1,23 @@
+.container{
+    width: 100%;
+  
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    font-size: 50px;
+    cursor: pointer;
+    transition-duration: .5s;
+    transform-style: preserve-3d;
+    
+}
+h1:hover{
+    font-weight: 1000;
+    font-size: 60px;
+}
+@media (max-width: 600px) {
+    h1{
+        font-size: 25px;
+    }
+}

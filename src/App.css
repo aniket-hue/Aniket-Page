@@ -1,87 +1,9 @@
-.container {
+
+.container{
   margin: 0px;
-  /* border: 1px solid; */
+  padding: 0;
   min-height: 100vh;
   padding: 0;
+  border: 8px solid black;
 }
 
-.logo {
-  background-color: #000000;
-  width: 230px;
-  border-radius: 100%;
-  margin: auto;
-  margin-bottom: 30px;
-  height: 230px;
-  margin-top: 10px;
-  position: relative;
-  align-items: center;
-}
-
-
-
-.text1 {
-  position: absolute;
-  margin-top: -50px;
-  text-align: center;
-  height: 50px;
-  width: 100%;
-  top: 50%;
-  color: #ffe23f;
-  /* font-size: 22px; */
-
-  animation-name: head;
-  animation-duration: 6s;
-  animation-iteration-count: infinite;
-  z-index: 100;
-
-
-}
-
-@keyframes head {
-  0% {font-size:190%; opacity:1;}
-  25% {font-size:90%; opacity:0;}
-  50% {font-size:160%; opacity:1;}
-  65% {font-size:90%; opacity:0;}
-  80% {font-size:160%; opacity:1; content: "Changed Text";}
-  90% {font-size:90%; opacity:0;}
-  100% {font-size:190%;opacity:1; content: "Original Text"}
-}
-
-.text {
-  width: 100%;
-  align-items: center;
-}
-
-#texth1 {
-  text-align: center;
-  font-size: 40px;
-}
-
-p {
-  text-align: center;
-  font-size: 20px;
-  font-weight: 100;
-}
-
-.icons {
-  display: flex;
-  flex-flow: row wrap;
-}
-
-figure {
-  /* flex: 1 1 100%; */
-  flex: 0 0 auto;
-  margin: auto;
-}
-
-img {
-  width: 50px;
-  margin: 20px;
-  transition-duration: .3s;
-  transition-property: width;
-  transition-timing-function: ease-in-out;
-}
-
-img:hover {
-  width: 60px;
-}

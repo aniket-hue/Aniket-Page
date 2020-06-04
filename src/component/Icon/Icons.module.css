@@ -1,0 +1,11 @@
+.icons {
+    display: flex;
+    flex-flow: row wrap;
+  
+  }
+  
+  figure {
+    /* flex: 1 1 100%; */
+    flex: 0 0 auto;
+    margin: auto;
+  }
