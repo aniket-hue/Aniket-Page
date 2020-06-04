@@ -12,7 +12,7 @@ const icon = (props) => {
         <a href={link} target="_blank">
             <img
                 onMouseOver={() => props.clicked(props.nameW)}
-                onMouseOut={() => props.clicked('Home')}
+                onMouseOut={() => props.clicked('Hello')}
                 src={props.name} alt="#" />
         </a>
     )
