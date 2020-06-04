@@ -27,9 +27,24 @@
   width: 100%;
   top: 50%;
   color: #ffe23f;
-  font-size: 22px;
+  /* font-size: 22px; */
+
+  animation-name: head;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  z-index: 100;
 
 
+}
+
+@keyframes head {
+  0% {font-size:190%; opacity:1;}
+  25% {font-size:90%; opacity:0;}
+  50% {font-size:160%; opacity:1;}
+  65% {font-size:90%; opacity:0;}
+  80% {font-size:160%; opacity:1; content: "Changed Text";}
+  90% {font-size:90%; opacity:0;}
+  100% {font-size:190%;opacity:1; content: "Original Text"}
 }
 
 .text {
