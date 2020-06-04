@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e1b01c97d11ac36e8370bb0eb566f7ff",
+    "revision": "ffa898c2f3197afd3aed82c2253e0804",
     "url": "/Aniket-Page/index.html"
   },
   {
-    "revision": "541aac308c237f4cfa76",
+    "revision": "7c3ad268180d6078280c",
     "url": "/Aniket-Page/static/css/main.1f55482c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aniket-Page/static/js/2.7ee0c9c6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "541aac308c237f4cfa76",
-    "url": "/Aniket-Page/static/js/main.064afbbb.chunk.js"
+    "revision": "7c3ad268180d6078280c",
+    "url": "/Aniket-Page/static/js/main.0a54f394.chunk.js"
   },
   {
     "revision": "86d365c10b76d1226567",
